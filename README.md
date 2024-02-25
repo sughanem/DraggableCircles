@@ -1,4 +1,4 @@
-# Draggable Circels
+# Draggable Circles
 
  We have 4 elements: 1 red square, 1 blue square, 1 red circle and 1 blue circle:
 
